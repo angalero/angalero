@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java and C++
 - 💞️ I’m looking to collaborate on game developing, anything python, softwares
 - 📫 How to reach me agidaga@gmail.com  
+- I am still working on my GitHub and add in my projects
 
 <!---
 angalero/angalero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
